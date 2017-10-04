@@ -1,0 +1,29 @@
+/**
+ * This class is the super Class of Employee, Patient, Doctor and Stuff . This class stores the information of person
+ * 
+ * @author JUN JIE LI
+ *
+ */
+ 
+ /**
+ * This class is a sub class of Person Class. This class stores the information of employees
+ * @author JUN JIE LI
+ *
+ */
+ 
+ /**
+ * This is a sub class of Employee class. This class stores the information of doctors
+ * @author JUN JEI LI
+ *
+ */
+ 
+ /**
+ * This class is a sub class of Person Class. This class stores the information of patients and prints out the list that contains person, doctor, patient, employee and stuff and computes the salary.
+ * @author:Jun Jie Li
+ */
+ 
+ /**
+ * This class is a sub class of Employee class. It stores the imformation of employee and computes salary of stuff
+ * @author JUN JIE LI
+ *
+ */
