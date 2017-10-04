@@ -1,0 +1,12 @@
+/***
+ * Student class is a class that store information of all students in class 
+ * @author JunJie Li
+ *
+ */
+ 
+ /***
+ * Course  class stores information of courses in to classes
+ * computes a list of students with class name and studetn's mark
+ * @author JUN JIE LI
+ *
+ */
