@@ -1,0 +1,27 @@
+/***
+ * This class is to to calculate a mutiple question with multiple answer.
+ * @author JUN JIE LI
+ *
+ */
+ 
+ /***
+ * This class is the sub class of Question. It culculates a multiple question with single answer
+ * @author JUN JIE LI
+ *
+ /***
+ * This class is a sub-class of Question. It checks the answer for text quesions
+ * @author JUN JIE LI
+ *
+ */
+ 
+ /**
+ * This class has one question with a text and answer ( from textbook chapter 9 )
+ * @author JUN JIE LI
+ *
+ */
+ 
+ /***
+ * This class is a sub class of Question. It checks the answer for a text question 
+ * @author JUN JIE LI
+ *
+ */
